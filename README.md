@@ -92,5 +92,4 @@ Dash Leaflet: https://www.dash-leaflet.com/
 Plotly Python: https://plotly.com/python/
 pandas: https://pandas.pydata.org/docs/
 OpenStreetMap: https://www.openstreetmap.org/copyright
-GitHub publication: pending. Publish the sanitized project and add its repository URL when available.
-
+GitHub publication: https://github.com/Zykopath/grazioso-salvare-dashboard
